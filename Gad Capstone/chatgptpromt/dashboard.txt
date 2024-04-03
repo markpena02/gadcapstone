@@ -1,0 +1,79 @@
+make a dashboard using html and css
+
+*** Side bar ***
+
+put this on the left side of the webpage
+
+on the left side there is a bar with this backgroudn color #7F95E4 where u can see the clickable icons on the top is the logo the location is assets/img logo.png below it a couple of px the app icon the location is assets/img/icons apps.png the below it is the chart icon the location is assets/img/icons chart-simple.png below it is the settings icon the location is assets/img/icons settings.png on the bottom corner of the bar is the exit or logout icon the location is assets/img/icons exit.png
+
+make the icons clickable
+
+resize the logo 24px
+
+on the right side of the bar the whole dashboard the color of the background in this side is #F1F0FF. beside the logo icon the header/title write "HGDG Overview:" the font is poppins size 24 color black on the top left of the dashboard on the edge align with the header/title put a search bar the color of the search bar is #7F95E4 on the right side of the search bar is a a clickable icon a menu the location is assets/img/icons menu-burger.png make the search bar and the icon name size.
+
+*** Overview Box ***
+
+below the tile put a box/column a text box with this background color #7F95E4, the column aint so big it shows text mostly its from the title/header to the search bar. inside the column put on the top left write "Overview" poppins 16 color white. below it an icon user icon the location is assets/img/icons user.png beside it a text information like this.
+
+this is beside the icon no text below the icon only on the right side
+
+put the icon on the left side of the "Name of Proponent"
+
+"Name of the Proponent
+ Office/Unit
+ Title of proposal
+ Program/Project/Activity Description
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+"
+below this text is a button named "ASSIGN EVALUATOR" the color of the button is #443266 the text is white with poppins bold 10, on the far right of the box is write "Score: 0" poppins 13 the color of the font is #443266
+
+*** Resources Box *** 
+
+blow the box there is another box same color above and same width
+
+Put label/title inside the Box write "Resources:" on the top left corner of this box the font is white poppins 16
+
+below th title are icons labe of the icons are below 
+
+put 6 icons the location is assets/img/icons paper.png below them put the label lorem.
+
+*** logs Box *** 
+
+below the search box make a box same color with the other boxes same width with the text box and the icon beside it combined
+
+put on the top left the label "Requests"
+
+below it is logs 
+
+1 log looks like this
+
+[icon] Claudia Alves			view>>
+	- In-Progress			2 days ago
+"Lorem ipsum dolor sit amet, consectetur adipiscing"
+---------------------------------------------------
+
+make 4 of that logs and get the icon from the location is assets/img/icons user.png
+
+at the bottom put view all...
+
+the height of this box is the 2 other boxes combine
+
+add gaps on the boxes
+
+bautify the boxes remove the edges and make it over all aethethically pleasing 
+
+make the edges round 
+
+put the logs Box below
+
+and dont be cheap in the code put all dont as is 
+
+and dont forget to put the sidebar on the left side!!!!
+
+Note: 
+1. Overview Box - Above the Resources Box it is in the middle of the webpage on its right side is the Request box
+2. Resources Box - below the Overview box it is the middle of the webpage on its right side is the Request box
+3. Request Box -  on the right side of the webpage its width is same with the search bar and the icon beside it combined its hight is the overview adn resource box combined.
+
+ 
